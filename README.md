@@ -1,7 +1,7 @@
 
 ![MasterHead](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww)
 <h1 align="center">Hi 👋, I'm Dipak Chavan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img alt="coding-photo" width="400"   align="right"  src="https://imgs.search.brave.com/zfdhisgof_l78jMSaOOJmvGYkdbWDMuggaGXR1w6FhY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by8zZC1jYXJ0b29u/LXNvZnR3YXJlLWRl/dmVsb3Blci1nZW5l/cmF0aXZlLWFpXzY0/NDY5MC0xMDE1Mzgu/anBnP3NpemU9NjI2/JmV4dD1qcGc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakchavan1225&label=Profile%20views&color=0e75b6&style=flat" alt="dipakchavan1225" /> </p>
